@@ -1,6 +1,8 @@
 # YeezyColorwayRecognition
 
-## A Machine Learning model to help detect the colorway of any yeezy sneaker
+## A Machine Learning model to help detect the colorway of yeezy sneakers
+
+## 
 
 To run this program:
 
